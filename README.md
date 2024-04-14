@@ -13,3 +13,5 @@ The program will display a random number between the range of numbers you entere
 - Enter to generate another number
 - Enter 'reset' to reset the both ranges
 - Enter 'exit' to exit program
+
+Author: https://github.com/Godwin-Binoy 
