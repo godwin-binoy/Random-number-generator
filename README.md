@@ -15,7 +15,7 @@ This project is a simple program written in Python that generates random numbers
 
 ## What You Need
 To run this program, you need:
-- **Python 3.x** installed on your computer.
+- **Python 3** installed on your computer.
 
 
 
